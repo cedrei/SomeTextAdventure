@@ -2,3 +2,7 @@ body {
 	background-color: black;
 	color: yellow;
 }
+
+.cursor {
+	font-size: 1.1em;
+}
