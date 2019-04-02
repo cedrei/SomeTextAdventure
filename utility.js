@@ -1,3 +1,7 @@
+/*
+*	Please don't look into this file, it's a mess <.<
+*/
+
 function writeParagraph(text) {
 	$("#text-area").append("<p>"+text+"</p>")
 }
